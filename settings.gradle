@@ -1,0 +1,2 @@
+rootProject.name='PaginationExample'
+include ':app'
